@@ -1,0 +1,29 @@
+body {
+    width: 90%;
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+#h1 {
+    float: left;
+    width: 200px;
+    height: 700px;
+    background: #65A5FA;
+    color: #FFFFFF;
+    text-align: center;
+    padding-top: 50px;
+}
+
+.title {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+
+div {
+    margin-right: 20px;
+}
+
+#h21 {
+    padding-top: 20px;
+}

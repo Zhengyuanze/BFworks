@@ -1,0 +1,15 @@
+body {
+    width: 90%;
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+.title {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+td{
+    padding-right: 10px; 
+    font-weight: 600;
+}
