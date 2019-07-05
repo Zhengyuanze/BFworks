@@ -1,0 +1,11 @@
+header {
+    width: 100%;
+    background: #111111;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#Hmain {
+    width: 960px;
+}

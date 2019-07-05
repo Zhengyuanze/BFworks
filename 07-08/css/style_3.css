@@ -1,0 +1,25 @@
+body {
+    width: 90%;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.parent {
+    height: 800px;
+    display: block;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-sizing: border-box;
+}
+
+#left {
+    position: relative;
+    width: 30%;
+    float: right;
+    background: red;
+}
+
+#right {
+    background: blue;
+}
