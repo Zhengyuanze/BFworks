@@ -1,0 +1,332 @@
+body {
+    width: 100%;
+    max-width: 1600px;
+    margin: 0 auto;
+}
+
+#bagr_1 {
+    background-image: url("./images/前端学院设计图_01.png");
+    width: 100%;
+    height: 900px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    position: relative;
+}
+
+#D1d1 {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+#Hello_World {
+    font-size: 62px;
+    font-family: "Montserrat";
+    color: rgb(255, 255, 255);
+    line-height: 1.161;
+    text-align: center;
+    top: 200px;
+}
+
+
+#China_is {
+    font-size: 20px;
+    font-family: "Myriad Pro";
+    color: rgba(255, 255, 255, 0.702);
+    text-align: center;
+    position: absolute;
+    width: 800px;
+    height: 100px;
+    top: 250px;
+    left: 50%;
+    transform: translateX(-50%);
+
+}   
+
+#D1d2 {
+    border: 0.5px solid #ffffff;
+    border-radius: 5px;
+    width: 1000px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    top: 500px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+#CYA {
+  font-size: 20px;
+  font-family: "Myriad Pro";
+  color: #ffffff;
+  text-align: center;
+  position: absolute;
+  top: 30px;
+}
+#IIAF {
+  font-size: 10px;
+  font-family: "Myriad Pro";
+  color: rgba(255, 255, 255, 0.702);
+  text-align: center;
+  position: absolute;
+  top: 66px;
+}
+
+[value="denis@getcraftwork.com"] {
+  position: absolute;
+  border:1px solid #ffffff;
+  border-radius: 5px;
+  opacity: 0.2;
+  top: 150px;
+  width: 300px;
+  height: 30px;
+  left:100px;
+}
+
+[value="Creat your password"] {
+  position: absolute;
+  border:1px solid #ffffff;
+  border-radius: 5px;
+  opacity: 0.2;
+  top: 150px;
+  width: 300px;
+  height: 30px;
+  left:420px;
+}
+
+[value="SIGN UP"] {
+  position: absolute;
+  border:1px solid #ffffff;
+  border-radius: 5px;
+  top: 150px;
+  background: #ffffff;
+  width: 160px;
+  height: 30px;
+  left:740px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .Header__8 {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 1600px;
+    height: 6274px;
+    z-index: 260;
+  }
+  .Text {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 1600px;
+    height: 6274px;
+    z-index: 259;
+  }
+  .China_is_speeding_up_strategic_plan__standards_ {
+    font-size: 20px;
+    font-family: "Myriad Pro";
+    color: rgba(255, 255, 255, 0.702);
+    line-height: 1.6;
+    text-align: center;
+    position: absolute;
+    left: 416.721px;
+    top: 372.198px;
+    width: 729px;
+    height: 84px;
+    z-index: 258;
+  }
+  .Hello_World {
+    font-size: 62px;
+    font-family: "Montserrat";
+    color: rgb(255, 255, 255);
+    line-height: 1.161;
+    text-align: center;
+    position: absolute;
+    left: 395.094px;
+    top: 273.043px;
+    width: 322px;
+    height: 48px;
+    z-index: 257;
+  }
+  .Sign_Up_Form {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 1600px;
+    height: 6274px;
+    z-index: 255;
+  }
+  .It_is_absolutely_free {
+    font-size: 12px;
+    font-family: "Montserrat";
+    color: rgba(255, 255, 255, 0.302);
+    text-transform: uppercase;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 722.938px;
+    top: 620.8px;
+    z-index: 254;
+  }
+  .Create_Your_Account {
+    font-size: 16px;
+    font-family: "Montserrat";
+    color: rgb(255, 255, 255);
+    text-transform: uppercase;
+    line-height: 1.75;
+    text-align: center;
+    position: absolute;
+    left: 682.937px;
+    top: 583.5px;
+    z-index: 253;
+  }
+  .Input_Field {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 1600px;
+    height: 6274px;
+    z-index: 252;
+  }
+  .denis_getcraftwork_com {
+    font-size: 14px;
+    font-family: "Montserrat";
+    color: rgb(255, 255, 255);
+    line-height: 1.857;
+    text-align: left;
+    position: absolute;
+    left: 435.937px;
+    top: 714.251px;
+    z-index: 251;
+  }
+  .Input_Field {
+    border-width: 1px;
+    border-color: rgb(255, 255, 255);
+    border-style: solid;
+    border-radius: 2px;
+    opacity: 0.2;
+    position: absolute;
+    left: 415px;
+    top: 678px;
+    width: 290px;
+    height: 48px;
+    z-index: 250;
+  }
+  .Input_Field {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 1600px;
+    height: 6274px;
+    z-index: 248;
+  }
+  .Create_your_password {
+    font-size: 14px;
+    font-family: "Montserrat";
+    color: rgba(255, 255, 255, 0.302);
+    line-height: 1.857;
+    text-align: left;
+    position: absolute;
+    left: 754.937px;
+    top: 715.251px;
+    z-index: 247;
+  }
+  .Input_Field {
+    border-width: 1px;
+    border-color: rgb(255, 255, 255);
+    border-style: solid;
+    border-radius: 2px;
+    opacity: 0.2;
+    position: absolute;
+    left: 737px;
+    top: 678px;
+    width: 290px;
+    height: 48px;
+    z-index: 246;
+  }
+  .Squared_Button {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 1600px;
+    height: 6274px;
+    z-index: 244;
+  }
+  .Sign_Up {
+    font-size: 12px;
+    font-family: "Montserrat";
+    color: rgb(20, 20, 20);
+    text-transform: uppercase;
+    line-height: 1.833;
+    text-align: center;
+    position: absolute;
+    left: 1091.105px;
+    top: 692.002px;
+    z-index: 243;
+  }
+  .Button {
+    border-radius: 2px;
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    left: 1059px;
+    top: 678px;
+    width: 125px;
+    height: 50px;
+    z-index: 242;
+  }
+  .Placeholder {
+    border-width: 1px;
+    border-color: rgb(255, 255, 255);
+    border-style: solid;
+    border-radius: 2px;
+    opacity: 0.2;
+    position: absolute;
+    left: 315px;
+    top: 530px;
+    width: 968px;
+    height: 248px;
+    z-index: 240;
+  }
+  .Background {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 1600px;
+    height: 6274px;
+    z-index: 238;
+  }
+  .Background {
+    background-color: rgb(20, 20, 20);
+    opacity: 0.651;
+    position: absolute;
+    left: 0px;
+    top: -10px;
+    width: 1600px;
+    height: 1000px;
+    z-index: 236;
+  }
+  .图层_1 {
+    background-image: url("图层 1.png");
+    position: absolute;
+    left: 0px;
+    top: -8px;
+    width: 1600px;
+    height: 998px;
+    z-index: 235;
+  }
+   */
